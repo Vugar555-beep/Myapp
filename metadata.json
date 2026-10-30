@@ -1,0 +1,6 @@
+{
+  "name": "Картули",
+  "description": "Изучение грузинского языка с нуля с орлёнком Сосо: алфавит мхедрули, озвучка, грамматика и интерактивные уроки в стиле Duolingo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
